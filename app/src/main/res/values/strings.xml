@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Google Api</string>
+    <string name="client_id">793857239418-bvpd54598sgeu51jtdveojb3lp1asqj0.apps.googleusercontent.com</string>
+    <string name="client_secret">Na8SxTMFyd1HzEcUVGv7xvmB</string>
+    <string name="signin_api_key">AIzaSyAotRQS1Yfuq9BrA5iNFzDbVcAyXiIAV7Q</string>
+    <string name="map_api_key">AIzaSyC25fz7R_AYrRD5v6spK89aW9yt2Oiafl4</string>
+</resources>
